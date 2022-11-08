@@ -1,6 +1,5 @@
 # Learning to think like a Power BI Boss
-Where I have stored all the data sources I have found that cover book-related data. The only data that I use is data that is publicly available. 
-<!-- wp:paragraph -->
+
 <p>This repository accompanies a blog series I am writing on my website: www.altentertraining.com.
 The key to this blog series is that I am <em>learning </em>M and DAX. 
   <!-- wp:paragraph -->
